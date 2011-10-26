@@ -25,7 +25,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-    ## Recebimento de notificacao
+## Recebimento de notificacao
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
     
@@ -67,7 +67,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-    ## Pesquisa por Codigo da Transacao
+## Pesquisa por Codigo da Transacao
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
    
@@ -88,7 +88,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-    ## Pesquisa de Transaçãoes por Intervalo de Datas
+## Pesquisa de Transaçãoes por Intervalo de Datas
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
     
@@ -123,7 +123,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-    ## Tratamento de Excessoes
+## Tratamento de Excessoes
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
 
