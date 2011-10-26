@@ -25,7 +25,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-## Recebimento de notificaçãoo
+## Recebimento de notificação
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
     
