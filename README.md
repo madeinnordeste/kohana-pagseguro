@@ -1,6 +1,6 @@
 Este módulo ultiliza as Bibliotecas distribuidas pelo pagseguro (http://pagseguro.uol.com.br)
 
-# DOCUMENTACAO
+# DOCUMENTAÇÃO
 
 https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseguro-em-php.html#pagamentos
 
@@ -25,7 +25,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-## Recebimento de notificacao
+## Recebimento de notificaçãoo
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
     
@@ -67,7 +67,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-## Pesquisa por Codigo da Transacao
+## Pesquisa por Código da Transação
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
    
@@ -123,7 +123,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
-## Tratamento de Excessoes
+## Tratamento de Exceções
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
 
