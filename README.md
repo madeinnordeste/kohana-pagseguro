@@ -1,13 +1,13 @@
-Este módulo ultiliza as Bibliotecas distribuidas pelo pagseguro (http://pagseguro.uol.com.br)
+Este módulo ultiliza as Bibliotecas distribuidas pelo pagseguro [http://pagseguro.uol.com.br]
 
-# DOCUMENTAÇÃO
+# DOCUMENTAÇÃO OFICIAL PAGSEGURO
 
 https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseguro-em-php.html#pagamentos
 
 
 # EXEMPLOS DE USO
 
-    ## Requisicao de Pagamento
+## Requisicao de Pagamento
     
     require Kohana::find_file('vendor', 'PagSeguroLibrary/PagSeguroLibrary');
     
