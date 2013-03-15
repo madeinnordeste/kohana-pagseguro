@@ -4,7 +4,7 @@
     "keywords": ["pagseguro", "kohana", "modules"],
     "homepage": "http://beto.euqueroserummacaco.com",
     "type": "kohana-module",
-    "minimum-stability" : "dev",
+    "minimum-stability": "dev",
     "authors": [
         {
         "name": "Luiz Alberto",
