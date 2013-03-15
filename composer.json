@@ -1,1 +1,14 @@
-{}
+{
+    "name": "madeinnordeste/kohana-pagseguro",
+    "description": "Biblioteca para uso do PagSeguro com Kohana",
+    "keywords": ["pagseguro", "kohana", "modules"],
+    "homepage": "http://beto.euqueroserummacaco.com",
+    "type": "kohana-module",
+    "authors": [
+        {
+        "name": "Luiz Alberto",
+        "email": "beto@euqueroserummacaco.com"
+        }
+    ],
+    "target-dir": "modules/kohana-pagseguro"
+}
