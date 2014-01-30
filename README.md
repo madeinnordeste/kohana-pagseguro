@@ -149,3 +149,7 @@ https://pagseguro.uol.com.br/v2/guia-de-integracao/tutorial-da-biblioteca-pagseg
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/kohana-pagseguro/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
